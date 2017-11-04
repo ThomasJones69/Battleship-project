@@ -1,0 +1,35 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+    max-width: 950px;
+    background-color: black;
+}
+
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: red;
+    
+}
+
+
+
+#gameboard {
+	position:relative;
+	margin:0 auto 2em auto;
+	width:500px;
+	height:600px;
+        background-image: url("Battle1.jpg");
+        background-repeat: no-repeat;
+            
+}
+
+#gameboard div {
+	position:absolute;
+        background
+            
+	background-color: black; 
+	border: 1px solid graytext;
+	width:50px;
+	height:50px;
+}
